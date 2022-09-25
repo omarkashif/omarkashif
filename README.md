@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omarkashif
-- 👀 I’m interested in Competitive Programming and AI
+- 👀 I’m interested in Competitive Programming and Artificial Intelligence
 
 <!---
 omarkashif/omarkashif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
