@@ -21,11 +21,3 @@ int main()
     cout<<climbStairs(n)<<"\n";
     return 0;
 }
-
-
-
-
-
-
-
-
