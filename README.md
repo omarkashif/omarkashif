@@ -5,6 +5,4 @@ Hi, I'm Omar! I'm an AI enthusiast passionate about building intelligent systems
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omarkashif&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=omarkashif&icon=0&color=0)](https://visitcount.itsvg.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omarkashif/) 
